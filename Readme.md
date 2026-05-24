@@ -111,6 +111,6 @@ Implements the recursive Van Emde Boas structure while optimizing memory usage.
 ```text
 .
 ├── src/
-│   └── veb_sparse.cpp
+│   └── van_emde_boas_tree.cpp
 ├── README.md
 └── .gitignore
